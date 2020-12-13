@@ -5,7 +5,7 @@
 <hr>
 
 **Description**
-Maze Runner is a javascript based web application.Here,the maze is going to be different every time you refresh the app because it is created at runtime.The aim here is to take the blue ball from its starting position to the end position that is the green ball.
+Maze Runner is a javascript based web application.Here,the maze is going to be different every time you refresh the app because it is created at runtime.The aim here is to take the blue ball from its starting position to the end position that is the green box.The user wins the game when the blue ball makes a collison with the green box.
 
 
 <hr>
