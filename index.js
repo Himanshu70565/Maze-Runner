@@ -1,7 +1,7 @@
 const { Engine, Render, Runner, World, Bodies, Body, Events } = Matter;
 
-const cellsHorizontal = 10;
-const cellsVertical = 10;
+const cellsHorizontal = 15;
+const cellsVertical = 15;
 const width = window.innerWidth-4;
 const height = window.innerHeight-4;
 
